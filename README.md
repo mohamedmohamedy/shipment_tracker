@@ -22,7 +22,6 @@ Design pattern --> Clean architecture
 ### Screenshots:
 
 <p float="left">
-  <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/181430607-c11a2970-87a1-43e4-a4cf-c1630ef573f2.png" width="200" height="400"/>
   <img Screenshot_20220825-230221 src="https://user-images.githubusercontent.com/80913778/186770230-d86e36cc-65ef-40fa-bbc7-cd07db90e2e4.png" width="200" height="400"/>
   <img Screenshot_20220825-230252 src="https://user-images.githubusercontent.com/80913778/186770241-6eac534c-3ee5-44ae-9cb1-7b270ae41ffd.png" width="200" height="400"/>
   <img Screenshot_20220825-230338 src="https://user-images.githubusercontent.com/80913778/186770259-a1d9731e-9092-489d-91a5-b6d42af84672.png" width="200" height="400"/>
