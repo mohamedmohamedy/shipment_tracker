@@ -13,11 +13,11 @@ Alhough i used BloC as statemangment and Google maps services to get the locatio
 
 ## Dependencies:
 
-Statemangment --> BLoC
-Authentication --> Firebase authentication
-Database --> Firebase Cloud
-Maps --> Google maps
-Design pattern --> Clean architecture
+- Statemangment --> BLoC
+- Authentication --> Firebase authentication
+- Database --> Firebase Cloud
+- Maps --> Google maps
+- Design pattern --> Clean architecture
 
 ### Screenshots:
 
