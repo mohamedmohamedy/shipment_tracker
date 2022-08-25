@@ -11,6 +11,8 @@ I have applied clean architecture principles in the code and although with organ
 
 Alhough i used BloC as statemangment and Google maps services to get the location and track the shipments.  
 
+
+
 ## Dependencies:
 
 - Statemangment --> BLoC
@@ -18,6 +20,10 @@ Alhough i used BloC as statemangment and Google maps services to get the locatio
 - Database --> Firebase Cloud
 - Maps --> Google maps
 - Design pattern --> Clean architecture
+
+## Design:
+
+only simple UI my main focus was on the logic and using Google maps and clean architecture and Firbase services. 
 
 ### Screenshots:
 
