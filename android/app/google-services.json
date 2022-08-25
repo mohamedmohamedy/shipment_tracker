@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80075849449",
+    "firebase_url": "https://shipment-tracker-dc059-default-rtdb.firebaseio.com",
+    "project_id": "shipment-tracker-dc059",
+    "storage_bucket": "shipment-tracker-dc059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80075849449:android:c1f3e99b9b6d7c92c2ba78",
+        "android_client_info": {
+          "package_name": "com.example.shipment_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80075849449-t3o24qi3hvui7lh3ic3gq40g2ap4ofbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0C_3rYQC4BlHqGvlV1XHjkEAHiAVfQFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80075849449-t3o24qi3hvui7lh3ic3gq40g2ap4ofbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
