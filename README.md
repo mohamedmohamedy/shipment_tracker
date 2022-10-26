@@ -19,7 +19,7 @@ Alhough i used BloC as statemangment and Google maps services to get the locatio
 - Authentication --> Firebase authentication
 - Database --> Firebase Cloud
 - Maps --> Google maps
-- Design pattern --> Clean architecture
+- Clean architecture
 
 ## Design:
 
